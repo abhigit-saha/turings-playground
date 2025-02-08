@@ -92,8 +92,6 @@ Tensionflow is a machine learning-based Intrusion Detection System (IDS) designe
 - **Hyperparameter Tuning:** Utilizing **Optuna** for optimal algorithm selection.
 
 ## Future Scope
-
-- **Deep Learning Approaches:** Experimenting with CNNs & RNNs.
 - **Real-time Implementation:** Deploying IDS on actual network traffic.
 - **Integration with Cloud Services:** Making the IDS scalable.
 
